@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning nuxtand neovim 🤓<br>🎯 Goals: Master vim motions</p>
+<p align="left">📚 I'm currently learning Nuxt 3 and Neovim 🤓<br>🎯 Goals: Master vim motions</p>
 
 ###
 
